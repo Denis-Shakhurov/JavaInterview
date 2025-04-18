@@ -2,7 +2,7 @@
 
 ---
 
-[## **1. Java Core**](/docs/1_JavaCore.md)
+## [**1. Java Core**](/docs/1_JavaCore.md)
 - **Основы**: переменные, операторы, циклы, условия.
 - **ООП**: классы, объекты, наследование, полиморфизм, инкапсуляция, абстракция.
 - **Исключения**: `try-catch-finally`, `throws`, кастомные исключения.
@@ -14,7 +14,7 @@
 
 ---
 
-[## **2. Collections**](/docs/2_JavaCollections.md)
+## [**2. Collections**](/docs/2_JavaCollections.md)
 - **Интерфейсы**:
     - `List` (`ArrayList`, `LinkedList`) – упорядоченные, допускают дубликаты.
     - `Set` (`HashSet`, `TreeSet`) – уникальные элементы.
@@ -27,7 +27,7 @@
 
 ---
 
-[## **3. Concurrency (Многопоточность)**](/docs/3_JavaConcurrency.md)
+## [**3. Concurrency (Многопоточность)**](/docs/3_JavaConcurrency.md)
 - **Потоки**: `Thread`, `Runnable`, `Callable`.
 - **Синхронизация**: `synchronized`, `Lock`, `volatile`.
 - **Пул потоков**: `ExecutorService`, `ThreadPoolExecutor`.
@@ -49,7 +49,7 @@
 
 ---
 
-[## **5. Spring Framework**](/docs/5_SpringFramework.md)
+## [**5. Spring Framework**](/docs/5_SpringFramework.md)
 - **Core**: IoC (Inversion of Control), DI (Dependency Injection).
 - **Spring Boot**: автоконфигурация, `@SpringBootApplication`.
 - **Spring MVC**: `@Controller`, `@RestController`, `@RequestMapping`.
@@ -59,7 +59,7 @@
 
 ---
 
-[## **6. Hibernate (ORM)**](/docs/6_Hibernate.md)
+## [**6. Hibernate (ORM)**](/docs/6_Hibernate.md)
 - **Сущности**: `@Entity`, `@Table`, `@Id`.
 - **Связи**: `@OneToMany`, `@ManyToOne`, `@ManyToMany`.
 - **Запросы**:
@@ -70,7 +70,7 @@
 
 ---
 
-[## **7. Популярные библиотеки**](/docs/7_ПопулярныеБиблиотеки.md)
+## [**7. Популярные библиотеки**](/docs/7_ПопулярныеБиблиотеки.md)
 - **Логирование**: `Log4j2`, `SLF4J`.
 - **JSON**: `Jackson`, `Gson`.
 - **Тестирование**: `JUnit 5`, `Mockito`, `TestContainers`.
@@ -78,7 +78,7 @@
 
 ---
 
-[## **8. Базы данных**](/docs/8_DataBase.md)
+## [**8. Базы данных**](/docs/8_DataBase.md)
 - **SQL**: `SELECT`, `JOIN`, `GROUP BY`, индексы, транзакции (ACID).
 - **NoSQL**: MongoDB (документы), Redis (ключ-значение).
 - **JDBC**: `Connection`, `Statement`, `PreparedStatement`.
@@ -86,14 +86,14 @@
 
 ---
 
-[## **9. Теория и SQL**](/docs/9_ТеорияБДиSQL.md)
+## [**9. Теория и SQL**](/docs/9_ТеорияБДиSQL.md)
 - **Нормальные формы БД** (1NF, 2NF, 3NF).
 - **Типы JOIN**: `INNER`, `LEFT`, `RIGHT`, `FULL`.
 - **Оптимизация запросов**: индексы, `EXPLAIN`.
 
 ---
 
-[## **10. Разработка ПО**](/docs/10_РазработкаПО.md)
+## [**10. Разработка ПО**](/docs/10_РазработкаПО.md)
 - **SOLID**:
     - Single Responsibility
     - Open-Closed
@@ -111,14 +111,14 @@
 
 ---
 
-[## **11. Микросервисы**](/docs/11_Микросервисы.md)
+## [**11. Микросервисы**](/docs/11_Микросервисы.md)
 - **Архитектура**: REST/gRPC, API Gateway, Service Discovery.
 - **Spring Cloud**: `Eureka`, `Zuul`, `Feign`, `Hystrix`.
 - **Docker + Kubernetes**: контейнеризация, оркестрация.
 
 ---
 
-[## **12. Сопровождение и эксплуатация**](/docs/12_Соровождение_и_эксплуатация.md)
+## [**12. Сопровождение и эксплуатация**](/docs/12_Соровождение_и_эксплуатация.md)
 - **Логирование**: централизованное (ELK, Grafana Loki).
 - **Мониторинг**: Prometheus, Grafana.
 - **CI/CD**: Jenkins, GitLab CI, GitHub Actions.
