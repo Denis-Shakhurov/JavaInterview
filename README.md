@@ -37,7 +37,7 @@
 
 ---
 
-[## **4. JVM (Java Virtual Machine)**](/docs/4_JVM.md)
+## [**4. JVM (Java Virtual Machine)**](/docs/4_JVM.md)
 - **Состав**:
     - **ClassLoader** – загрузка классов.
     - **Runtime Data Areas** – Heap, Stack, Method Area.
